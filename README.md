@@ -6,6 +6,9 @@ Các bước biến hành:
 2. Phân đoạn ký tự trong biển số xe
 3. Nhận dạng các ký tự trong biển số xe
 
+### Yêu cầu
+Tải các file chứa dataset ở đường dẫn: https://drive.google.com/drive/folders/1KUmpmUokHaG_j_ys3_KdrhZZ4F-36aoh?usp=sharing
+
 ### Môi trường sử dụng
 python 3.6.8
 
