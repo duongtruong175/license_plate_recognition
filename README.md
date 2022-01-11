@@ -6,6 +6,13 @@ Các bước biến hành:
 2. Phân đoạn ký tự trong biển số xe
 3. Nhận dạng các ký tự trong biển số xe
 
+### Demo web
+Code backend: https://github.com/hungvt639/-cv-lpr-backend
+
+Code frontend: https://github.com/hungvt639/cv-lpr-frontend
+
+Link web demo: http://lpr-cv.hung-vt.bike/
+
 ### Yêu cầu
 Tải các file chứa dataset gồm: character_dataset, test_dataset, yolo_utils tại [đường dẫn](https://drive.google.com/drive/folders/1KUmpmUokHaG_j_ys3_KdrhZZ4F-36aoh?usp=sharing)
 
