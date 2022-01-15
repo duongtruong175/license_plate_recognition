@@ -30,7 +30,8 @@ b1: cần cài virtualenv và thêm path đầy đủ
 
 b2: gọi lệnh tạo 1 môi trường ảo: virtualenv -p C:\Python36\python.exe btl
 
-b3: đứng trong thư mục btl: .\Scripts\activate
+b3: đứng trong thư mục btl: chạy .\Scripts\activate
 
 - Sau đó cd vào thư mục license_plate_recognition
+- Cài thư viện: pip install -r requirements.txt
 - Chạy các file .inpynb để test hệ thống
