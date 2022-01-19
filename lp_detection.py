@@ -1,5 +1,5 @@
 """
-Phát hiện biển số sử dụng phương pháp tìm đường viền
+Phát hiện biển số sử dụng phương pháp tìm đường viền, phương pháp YOLO
 
 Phát hiện biển số xe từ hình ảnh đầu vào.
 Từ đó đưa sang bộ phân đoạn ký tự
